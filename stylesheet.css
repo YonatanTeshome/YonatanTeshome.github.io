@@ -12,8 +12,13 @@ body {
     padding: 20px;
 }
 
+.image-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .highlight {
-    color: orange;
+    color: rgb(191, 87, 0);
 }
 
 .section {
